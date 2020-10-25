@@ -68,5 +68,16 @@ Guest user in Pyabr is very small user without configuration controller database
 
 Please complete you information after that click the `Finish` button and wait about 1 second for installing Pyabr
 
+##### Finding the installed directoy
 
+[![Installing step by step](https://raw.githubusercontent.com/manijamali2003/pyabr-docs/main/images/00008.png "Installing step by step")](https://raw.githubusercontent.com/manijamali2003/pyabr-docs/main/images/00008.png "Installing step by step")
 
+After installaction of Pyabr you can find your installed directory for running Pyabr.
+
+For running the Pyabr click right, Open in Terminal, or in Windows File > PowerShell run:
+
+```shell script
+python vmabr.pyc
+```
+
+That is!
