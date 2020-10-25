@@ -1,9 +1,9 @@
 ## Whats Pyabr?
 
-![](https://raw.githubusercontent.com/manijamali2003/pyabr-docs/main/images/00001.png)
-
 Pyabr is a light weight software for controling the cloud space on server instead of client applications and virtual operating system on server.
 It is free at all with open source code under GNU General Public License.
+
+[![Pyabr Desktop 0.2.0](https://raw.githubusercontent.com/manijamali2003/pyabr-docs/main/images/00001.png "Pyabr Desktop 0.2.0")](https://raw.githubusercontent.com/manijamali2003/pyabr-docs/main/images/00001.png "Pyabr Desktop 0.2.0")
 
 ### Licensing
 
@@ -21,10 +21,6 @@ with this conditions:
 - Copyright notic
 
 ### Programmers
-
-#### Mani Jamali
-![](https://avatars1.githubusercontent.com/u/52452871?s=400&v=4)
-
 I`m Mani Jamali, I love Python programming language and it's my favorite programing language.
 Pyabr is the best idea in my programing life created in July.
 At first Pyabr had a small core for loading it apps.
@@ -38,18 +34,32 @@ After developing the wet core I went to develop and start the Pyabr project on S
 
 ***After developing the wet core:***
 
-- (First versions of Pyabr): https://github.com/manijamali2003/pycloud-projects
-- (Lates version):           https://github.com/manijamali2003/pyabr
+- [First repository](https://github.com/manijamali2003/pycloud-projects "First repository")
+- [Lates repository](https://github.com/manijamali2003/pyabr "Lates repository")
+
+**Pyabr Developer Group**
+
+- [Telegram Group](http://t.me/pyabr_community "Telegram Group")
+- [Telegram Channel](https://t.me/pyabr "Telegram Channel")
+- [Gap Group](https://gap.im/pyabr_community)
+- [Gap Channel](https://gap.im/pyabr)
+- [Instagram](https://instagram.com/pyabrsystem)
+
+**Topest Programmers**
+
+- [Mani Jamali](https://github.com/manijamali2003 "Mani Jamali")
+- [Amirhosein Mohammadi](https://github.com/blackIQ "Amirhosein Mohammadi")
+- [Dark wlf](https://github.com/darkwlf "Dark wlf")
 
 ### Possibilities
 
 - Has a command line interface
 - Has an user manager
 - Has a compiler collection (C/C++/Python/Java)
-- Has a script lanaguage named "Saye"
-- Has a package manager named "Paye"
-- Has a assitant named "Rachel"
-- Has a desktop enviroment named "Baran"
+- Has a script lanaguage named ***"Saye"***
+- Has a package manager named ***"Paye"***
+- Has a assitant named ***"Rachel"***
+- Has a desktop enviroment named ***"Baran"***
 
 All of them have a 2 MB size after install, before install Pyabr
 
@@ -65,3 +75,4 @@ All of them have a 2 MB size after install, before install Pyabr
 ### Do you want to install this software?
 
 If it's yes, Let's go to install it!
+
