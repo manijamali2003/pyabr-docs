@@ -74,5 +74,5 @@ All of them have a 2 MB size after install, before install Pyabr
 
 ### Do you want to install this software?
 
-If it's yes, Let's go to install it!
+If it's yes, [Click me](https://github.com/manijamali2003/pyabr-docs/blob/main/02-Installaction/01-Install-Pyabr-on-pc.md) for install it!
 
