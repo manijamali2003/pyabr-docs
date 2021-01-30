@@ -39,8 +39,6 @@ After developing the wet core I went to develop and start the Pyabr project on S
 
 **Pyabr Developer Group**
 
-- [Telegram Group](http://t.me/pyabr_community "Telegram Group")
-- [Telegram Channel](https://t.me/pyabr "Telegram Channel")
 - [Gap Group](https://gap.im/pyabr_community)
 - [Gap Channel](https://gap.im/pyabr)
 - [Instagram](https://instagram.com/pyabrsystem)
@@ -58,7 +56,6 @@ After developing the wet core I went to develop and start the Pyabr project on S
 - Has a compiler collection (C/C++/Python/Java)
 - Has a script lanaguage named ***"Saye"***
 - Has a package manager named ***"Paye"***
-- Has a assitant named ***"Rachel"***
 - Has a desktop enviroment named ***"Baran"***
 
 All of them have a 2 MB size after install, before install Pyabr
