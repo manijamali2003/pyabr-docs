@@ -1,13 +1,7 @@
 <html dir="rtl">
-<style>
-@font-face {
-  font-family: "BYekan";
-  src: url(https://github.com/manijamali2003/pyabr-docs/raw/main/Font/Yekan.ttf);
-}
-h1,h2,h3,h4,h5,h6,p {
-    font-family: "BYekan";
-}
-</style>
+<head>
+    <link rel="stylesheet" href=""/>
+</head>
 <body>
 
 ## پای ابر چیست؟
