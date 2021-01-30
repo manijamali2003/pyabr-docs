@@ -39,48 +39,48 @@
 - (هسته پای ابر): https://github.com/wet-kernel/os-wet
 - (هسته پای ابر نسخه دوم): https://github.com/wet-kernel/wet-kernel
 
-After developing the wet core I went to develop and start the Pyabr project on September.
+بعد از اینکه این دو نسخه بالا را توسعه دادم رفتم سراغ توسعه خود پای ابر در مهر ماه و برای اولین بار پای ابر شکل گرفت
 
-***After developing the wet core:***
+***بعد از توسعه این دو هسته***
 
-- [First repository](https://github.com/manijamali2003/pycloud-projects "First repository")
-- [Lates repository](https://github.com/manijamali2003/pyabr "Lates repository")
+- [اولین مخزن پای ابر](https://github.com/manijamali2003/pycloud-projects "اولین مخزن پای ابر")
+- [مخزن فعلی](https://github.com/manijamali2003/pyabr "مخزن پای ابر")
 
-**Pyabr Developer Group**
+**توسعه دهندگان پای ابر در شبکات اجتماعی**
 
-- [Gap Group](https://gap.im/pyabr_community)
-- [Gap Channel](https://gap.im/pyabr)
-- [Instagram](https://instagram.com/pyabrsystem)
+- [گروه ما گپ](https://gap.im/pyabr_community)
+- [کانال ما در گپ](https://gap.im/pyabr)
+- [صفحه ما در اینستاگرام](https://instagram.com/pyabrsystem)
 
-**Topest Programmers**
+**توسعه دهندگان ارشد**
 
-- [Mani Jamali](https://github.com/manijamali2003 "Mani Jamali")
-- [Amirhosein Mohammadi](https://github.com/blackIQ "Amirhosein Mohammadi")
+- [مانی جمالی](https://github.com/manijamali2003 "مانی جمالی")
+- [امیرحسین محمدی](https://github.com/blackIQ "امیرحسین محمدی")
 - [Dark wlf](https://github.com/darkwlf "Dark wlf")
 
-### Possibilities
+### ویژگی های پای ابر
 
-- Has a command line interface
-- Has an user manager
-- Has a compiler collection (C/C++/Python/Java)
-- Has a script lanaguage named ***"Saye"***
-- Has a package manager named ***"Paye"***
-- Has a desktop enviroment named ***"Baran"***
+- دارای یک خط فرمان شبیه به لینوکس
+- دارای یک مدیریت کننده حساب های کاربری
+- پشتیبانی از زبان های مختلف برنامه نویسی
+- دارای یک زبان برنامه نویسی بومی
+- دارای یک مدیریت بسته بومی
+- دارای یک میزکار بومی
 
-All of them have a 2 MB size after install, before install Pyabr
+همه این ویژگی ها با هم ۲ مگابایت حجم دارند!
 
-### Supports & Platforms
+### در چه پلتفرم هایی پشتیبانی می شود؟
 
-- Windows 10 (amd64/i386)
-- Mac OS X
-- Android (Termux/PyDroid)
-- Linux (as Client/as Server/amd64/i386)
-- Free BSD
-- other Unix and *nix operating systems
+- ویندوز ۱۰
+- سیستم عامل مک او اس
+- اندروید
+- لینوکس (پشتیبانی کامل)
+- فری بی اس دی
+- بقیه سیستم عامل های تحت یونیکس
 
-### Do you want to install this software?
+### آیا دوست دارید پای ابر را نصب کنید؟ 
 
-If it's yes, [Click me](https://github.com/manijamali2003/pyabr-docs/blob/main/02-Installaction/01-Install-Pyabr-on-pc.md) for install it!
+اگر دوست دارید, [اینجا](https://github.com/manijamali2003/pyabr-docs/blob/main/02-Installaction/01-Install-Pyabr-on-pc.md) کلیک کنید برای نصبش.
 
 </div>
 
