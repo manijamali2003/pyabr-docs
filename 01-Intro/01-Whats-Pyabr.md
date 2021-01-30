@@ -1,5 +1,6 @@
 <link rel="stylesheet" type="text/css" href="https://github.com/manijamali2003/pyabr-docs/raw/main/Style/Main.css"/>
 <div dir="rtl" class="s">
+<span style="font-famiy: 'BYekan';">
 
 ## پای ابر چیست؟
 
@@ -75,4 +76,7 @@ All of them have a 2 MB size after install, before install Pyabr
 ### Do you want to install this software?
 
 If it's yes, [Click me](https://github.com/manijamali2003/pyabr-docs/blob/main/02-Installaction/01-Install-Pyabr-on-pc.md) for install it!
+
+</span>
 </div>
+
