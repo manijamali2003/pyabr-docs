@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://github.com/manijamali2003/pyabr-docs/raw/main/Style/Main.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/manijamali2003/pyabr-docs/main/Style/Main.css">
 <div dir="rtl" class="s">
 
 ## پای ابر چیست؟

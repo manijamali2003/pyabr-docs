@@ -1,6 +1,6 @@
 @font-face {
   font-family: "BYekan";
-  src: url('https://github.com/manijamali2003/pyabr-docs/raw/main/Font/Yekan.ttf') format ('truetype');
+  src: url('https://raw.githubusercontent.com/manijamali2003/pyabr-docs/main/Font/Yekan.ttf') format ('truetype');
 }
 
 * { margin: 0; padding: 0; }
