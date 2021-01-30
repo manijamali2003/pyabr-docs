@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="https://github.com/manijamali2003/pyabr-docs/raw/main/Style/Main.css"/>
-<div dir="rtl" style="font-family: 'BYekan'">
+<div dir="rtl" class="x">
 
 ## پای ابر چیست؟
 
