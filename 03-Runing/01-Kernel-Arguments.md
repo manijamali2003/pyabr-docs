@@ -1,4 +1,4 @@
-# Command Line Interface in Pyabr
+# Kernel Arguments
 
 In Pyabr software you can power on it on **GUI** mode or **CLI** mode,
 
