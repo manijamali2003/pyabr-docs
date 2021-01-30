@@ -1,37 +1,43 @@
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/manijamali2003/pyabr-docs/main/Style/Main.css"></link>
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/manijamali2003/pyabr-docs/main/Style/Main.css">
 <div dir="rtl" class="s">
 
 ## پای ابر چیست؟
 
-Pyabr is a light weight software for controling the cloud space on server instead of client applications and virtual operating system on server.
-It is free at all with open source code under GNU General Public License.
+پای ابر یک نرم افزار بسیار سبک، هوشمند و قدرتمند برای مدیریت  فضاهای ابری می باشد که هدف آن آسان سازی ارتباط بین ابر و کاربر است؛ پای ابر تقریبا در همه جا قابل نصب است و به چندین صورت می توان از آن استفاده کرد:
+
+- **به عنوان یک مدیریت کننده فضای ابری از راه دور**
+- **به عنوان یک مدیریت کننده فضاهای ابری در کلاینت**
+- **به عنوان یک پوسته گرافیکی لینوکس یا ویندوز**
+- **به عنوان یک برنامه در ویندوز یا لینوکس یا اندروید**
+- **به عنوان یک پوسته ساده در اندروید**
+- **به عنوان یک سیستم عامل قابل حمل**
+
 
 [![Pyabr Desktop 0.2.0](https://raw.githubusercontent.com/manijamali2003/pyabr-docs/main/images/00001.png "Pyabr Desktop 0.2.0")](https://raw.githubusercontent.com/manijamali2003/pyabr-docs/main/images/00001.png "Pyabr Desktop 0.2.0")
 
-### Licensing
+### مجوز دسترسی
 
-This software is under GNU General Public License v3.0 that you can:
-- Copy
-- Sell
-- Release a new version
-- Edit, Modify
-- Rebuild
-- Share
+پای ابر به عنوان یک نرم افزار سبک و آزاد ارائه می شود و همیشه رایگان است؛ این نرم افزار تحت مجوز **همگانی گنو** منتشز می شود یعنی شما می توانید:
 
-with this conditions:
+- آن را کپی کنید
+- ویرایش کنید
+- یک برنامه جدید بر پایه آن بنوسید
+- تغییر دهید
+- دوباره نویسی کنید
+- به اشتراک بگذارید
 
-- License notice
-- Copyright notic
+**تحت این شرایط:**
 
-### Programmers
-I`m Mani Jamali, I love Python programming language and it's my favorite programing language.
-Pyabr is the best idea in my programing life created in July.
-At first Pyabr had a small core for loading it apps.
+- مجوز آن را حتما ذکر کنید
+- نام تمام توسعه دهندگان را ذکر کنید
 
-***Get the first version of Pyabr:***
+### توسعه دهندگان پای ابر 
+من مانی جمالی هستم توسعه دهنده اصلی و مدیرمحصول پای ابر اینجا با شما عزیزان هستم تا بتوانم بیشتر پای ابر را برایتان معرفی کنم تا بهتر با ساختار آن آشنا شوید؛ من پای ابر را از مرداد سال ۱۳۹۸ شروع کردم به هدف اینکه بتوانم با آن یک سیستم عامل سبک و مستقل بسازم اما دیدم که ساختن یک سیستم عامل با پایتون کار دشواری است پس تصمیم گرفتم یک مدیریت فضای ابری درست کنم؛ تقریبا در اوایل مرداد هسته پای ابر نوشته شد سپس در مهر همان سال پای ابر شکل گرفت و تا امروز در توسعه یافت.
 
-- (The wet core): https://github.com/wet-kernel/os-wet
-- (The wet core): https://github.com/wet-kernel/wet-kernel
+***شاید دوست داشته باشید اولین نگارش های پای ابر را برسی کنید***
+
+- (هسته پای ابر): https://github.com/wet-kernel/os-wet
+- (هسته پای ابر نسخه دوم): https://github.com/wet-kernel/wet-kernel
 
 After developing the wet core I went to develop and start the Pyabr project on September.
 
